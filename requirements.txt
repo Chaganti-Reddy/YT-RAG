@@ -1,10 +1,16 @@
 streamlit
 youtube-transcript-api
-langchain==0.1.14
+
+# LangChain core
+langchain
+langchain-core
+
+# Model adapters
 langchain-openai
 langchain-google-genai
-langchain-ollama
 langchain-community
+
+# Utilities
 faiss-cpu
 tiktoken
 deep-translator
