@@ -8,6 +8,7 @@ langchain-core
 # Model adapters
 langchain-openai
 langchain-google-genai
+langchain-ollama
 langchain-community
 
 # Utilities
