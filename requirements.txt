@@ -1,0 +1,13 @@
+streamlit
+youtube-transcript-api
+langchain==0.1.14
+langchain-openai
+langchain-google-genai
+langchain-ollama
+langchain-community
+faiss-cpu
+tiktoken
+deep-translator
+python-dotenv
+requests
+
